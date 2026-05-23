@@ -1,9 +1,7 @@
 #Descargar las familias de pfam
 
-cd
-ls
 
-cd Especializacion
+cd ~/Especializacion
 
 #Descargar la base de datos de Pfam
 wget ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz
